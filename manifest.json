@@ -1,0 +1,14 @@
+{
+  "name": "Hafeez jocke",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "Joke.html",
+    "default_icon": "joke1.jpg"
+  },
+  "icons": {
+    "128": "joke1.jpg"
+  },
+  "permissions": ["activeTab"]
+
+}
